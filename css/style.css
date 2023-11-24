@@ -101,7 +101,7 @@ body{
     justify-content: space-between;
     width: 100%;
     padding: 1rem 2rem;
-    position: fixed;
+   
     top: 0;
     left: 0;
     z-index: 100;
@@ -111,6 +111,7 @@ body{
 .header .logo img{
     width: 120%;
     height: 25rem;
+    position: fixed;
     top: 0;
     left: 0;
 }
