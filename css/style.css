@@ -109,10 +109,11 @@ body{
 }
 
 .header .logo img{
-    width: 2rem;
+    width: 120%;
     height: 3rem;
     top: 0;
     left: 0;
+    position: fixed;
     
    }
 
